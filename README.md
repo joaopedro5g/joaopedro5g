@@ -22,6 +22,9 @@ Sou um programador de 21 anos com uma paixão por código e tecnologia. Já serv
 
 - **[Flow 2.0](https://github.com/joaopedro5g/flow2.0)**: Esse projeto é uma atualização de um outro [projeto](https://github.com/joaopedro5g/flowpodcast/), onde estou recriando ele utilizando os conhecimento que adquirir ao longo dos anos.
 
+- **[Mikrotik MPLS + CGNAT](https://github.com/joaopedro5g/mikrotik-provedor-mpls-cgnat)**: Esse projeto é para aplicar meus conhecimentos em roteamento dinamico e transporte de rede para empresas dentro de uma operadora, transportando tanto tunel para b2b quanto pppoe comun para clientes "normais" b2c e separa essa rede para cada um.
+
+
 ## Vamos Conversar! 💬
 
 Se você quiser discutir sobre programação, redes, rock ou qualquer outra coisa, sinta-se à vontade para entrar em contato! Estou sempre aberto a novas colaborações e ideias.
